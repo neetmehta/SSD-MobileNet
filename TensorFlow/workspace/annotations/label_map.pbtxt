@@ -1,8 +1,0 @@
-item {
-	name:'forward'
-	id:1
-}
-item {
-	name:'stop'
-	id:5
-}
